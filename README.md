@@ -1,5 +1,5 @@
 - **Work**
-  - Security Engineer @ VyperLang (2023–present)
+  - Security Engineer @ VyperLang (2023–2026)
   - Solidity Auditor @ Ackee Blockchain (2021–2023)
   - FPGA Developer (infrared cameras) @ Workswell (2020–2021)
 
